@@ -1,0 +1,154 @@
+
+
+
+
+.header {
+    border: 1px solid black;
+    background-color: black;
+    color: white;
+}
+.container {
+    display: flex;
+    width: 1240px;
+    padding: 14px;
+    height: 82px;
+}
+.div1 {
+    width: 56px;
+    height: 46px;
+    margin-top: 18px;
+    margin-left: 57px;
+}
+.div2 {
+    width: 30px;
+    height: 30px;
+    margin-top: 26px;
+    margin-left: 914px;
+}
+.div3 {
+    width: 76px;
+    height: 15px;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 14px;
+}
+
+.div4 {
+    width: 10px;
+    height: 10px;
+    margin-top: 32px;
+    margin-left: 0px;
+}
+
+.div5 {
+    text-decoration: none;
+    padding: 25px;
+    font-size: 20px;
+    background-color: #F1A900;
+    width: 192px;
+    margin-left: 30px;
+    padding-left: 49px;
+    padding-right: 49px;
+}
+
+.div5 p {
+    margin-top: 30px;
+}
+
+.header2 {
+    width: 1430px;
+    height: 44px;
+    border: 1px solid #222222;
+    background-color: #222222;
+    color: white;
+    display: flex;
+    gap: 110px;
+}
+
+.div6 {
+    width: 81px;
+    height: 16px;
+    font-size: 16px;
+    margin-left: 285px;
+    margin-top: -5px;
+}
+
+.div7 {
+    width: 10px;
+    height: 10px;
+    margin-left: -120px;
+    margin-top: 9px;
+}
+
+.div8 {
+    width: 81px;
+    height: 16px;
+    font-size: 16px;
+    margin-top: -5px;
+}
+
+.div9 {
+    width: 81px;
+    height: 16px;
+    font-size: 16px;
+    margin-top: -5px;
+}
+
+.div10 {
+    width: 95px;
+    height: 16px;
+    font-size: 16px;
+    margin-top: -5px;
+}
+
+.div11 {
+    width: 95px;
+    height: 16px;
+    font-size: 16px;
+    margin-top: -5px;
+}
+.main{
+    background: url('./bac.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 797px;
+
+}
+.div12{
+    width: 235px;
+    height: 73px;
+    background-color: #F1A900;
+    font-size:40px;
+    text-align: center;
+    line-height: 48px;
+    align-items: center;
+    margin-top: 349px;
+    margin-left: 453px;
+}
+.div13{
+    width: 235px;
+    height: 73px;
+    background-color: #000000;
+    font-size:40px;
+    text-align: center;
+    line-height: 48px;
+    align-items: center;
+    margin-top: -73px;
+    margin-left: 752px;
+    color: white;
+}
+.div14{
+    width: 966px;
+    height: 152px;
+    font-size:64px;
+    text-align: center;
+    line-height: 48px;
+    align-items: center;
+    margin-top: 62px;
+    margin-left: 260px;
+    color: white;
+    background-color: #f1a90086;
+    padding-top: 100px;
+    border-radius: 10px;
+}
